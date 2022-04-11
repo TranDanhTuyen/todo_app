@@ -1,7 +1,7 @@
 <template>
-  <appheader class="app-header">
+  <header class="header">
       <h1>Việc cần làm</h1>
-  </appheader>
+  </header>
 </template>
 
 <script>
@@ -11,9 +11,9 @@ export default {
 </script>
 
 <style>
-.app-header {
+.header {
     background: #333;
-    color: rgb(18, 1, 1);
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 10px;
 }
